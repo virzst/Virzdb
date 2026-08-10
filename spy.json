@@ -1,3 +1,4 @@
 {
-  "api_url": "https://roommate-snap-ratios-villa.trycloudflare.com"
+  "api_url": "https://roommate-snap-ratios-villa.trycloudflare.com",
+  "ws_url": "wss://tim-lion-cancelled-munich.trycloudflare.com"
 }
